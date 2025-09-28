@@ -1,0 +1,13 @@
+{
+  "total_revenue": 20250677.36,
+  "total_transactions": 50000,
+  "unique_customers": 5000,
+  "avg_order_value": 405.0135472,
+  "avg_customer_value": 4050.135472,
+  "avg_customer_orders": 10.0,
+  "avg_daily_revenue": 20791.24985626283,
+  "avg_daily_transactions": 51.3347022587269,
+  "avg_customer_lifetime_days": 778.5588,
+  "avg_purchase_frequency_days": 84.59655364217394,
+  "customer_retention_rate": 99.94
+}

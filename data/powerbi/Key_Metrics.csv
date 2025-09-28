@@ -1,0 +1,9 @@
+Metric,Value,Format
+Total Revenue,20250677.36,Currency
+Total Transactions,50000.0,Number
+Unique Customers,5000.0,Number
+Average Order Value,405.0135472,Currency
+Average Customer Value,4050.135472,Currency
+Customer Retention Rate,99.94,Percentage
+Average Daily Revenue,20791.24985626283,Currency
+Average Customer Lifetime,778.5588,Days

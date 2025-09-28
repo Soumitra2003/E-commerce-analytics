@@ -1,0 +1,63 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.9.0
+scikit-learn>=1.1.0
+statsmodels>=0.13.0
+
+# Data Processing & Feature Engineering
+category-encoders>=2.5.0
+imbalanced-learn>=0.9.0
+missingno>=0.5.0
+
+# Visualization Libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+plotly-dash>=2.6.0
+
+# Dashboard Framework - Power BI Integration
+# Note: Power BI Desktop is required (free download from Microsoft)
+# Python integration for Power BI
+pandas>=1.5.0  # For data export to Power BI
+openpyxl>=3.0.0  # For Excel export to Power BI
+
+# Machine Learning & Advanced Analytics
+xgboost>=1.6.0
+lightgbm>=3.3.0
+prophet>=1.1.0
+yellowbrick>=1.5.0
+
+# Time Series Analysis
+pmdarima>=2.0.0
+seasonal-decompose>=0.1.0
+
+# Database & Data Sources
+sqlalchemy>=1.4.0
+psycopg2-binary>=2.9.0
+requests>=2.28.0
+
+# Jupyter & Development
+jupyter>=1.0.0
+ipykernel>=6.15.0
+ipywidgets>=7.7.0
+notebook>=6.4.0
+
+# Configuration & Utilities
+python-dotenv>=0.20.0
+pyyaml>=6.0
+click>=8.1.0
+
+# Reporting & Export
+fpdf2>=2.5.0
+openpyxl>=3.0.0
+jinja2>=3.1.0
+
+# Model Deployment & Monitoring
+joblib>=1.1.0
+pickle5>=0.0.12
+
+# Quality & Testing
+pytest>=7.1.0
+black>=22.6.0
+flake8>=5.0.0
