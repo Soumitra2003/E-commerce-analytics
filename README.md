@@ -5,7 +5,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](https://powerbi.microsoft.com/)
 
-> **A comprehensive data analytics capstone project by [Soumitra Upadhyay](https://github.com/yourusername) demonstrating end-to-end analytics capabilities for e-commerce customer behavior analysis and revenue optimization.**
+> **A comprehensive data analytics capstone project by [Soumitra Upadhyay](https://github.com/Soumitra2003) demonstrating end-to-end analytics capabilities for e-commerce customer behavior analysis and revenue optimization.**
 
 ## 🎯 **Project Highlights**
 
@@ -160,9 +160,9 @@ This project demonstrates proficiency in:
 ## 🤝 **Connect & Collaborate**
 
 **👨‍💻 Author:** Soumitra Upadhyay  
-**📧 Contact:** [your.email@example.com](mailto:your.email@example.com)  
-**💼 LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**📅 Date:** September 2025  
+**📧 Contact:** [soumitrau2003@gmail.com](mailto:soumitrau2003@gmail.com)  
+**💼 LinkedIn:** [Soumitra Upadhyay|Linkedin]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/soumitra-upadhyay-a51bb7262/))  
+**Made in September 2025  
 
 ### **⭐ If you found this project helpful, please give it a star!**
 
