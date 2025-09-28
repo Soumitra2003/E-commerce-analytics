@@ -161,7 +161,7 @@ This project demonstrates proficiency in:
 
 **👨‍💻 Author:** Soumitra Upadhyay  
 **📧 Contact:** [soumitrau2003@gmail.com](mailto:soumitrau2003@gmail.com)  
-**💼 LinkedIn:** [Soumitra Upadhyay|Linkedin]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/soumitra-upadhyay-a51bb7262/))  
+**💼 LinkedIn:** [Soumitra Upadhyay](https://www.linkedin.com/in/soumitra-upadhyay-a51bb7262/)
 **Made in September 2025  
 
 ### **⭐ If you found this project helpful, please give it a star!**
